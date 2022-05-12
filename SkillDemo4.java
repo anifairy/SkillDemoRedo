@@ -1,3 +1,7 @@
 public class SkillDemo4{
-//vs code here
+    public static int multiply(int m, int n){
+        return m*n;
+    }
+ 
 }
+
